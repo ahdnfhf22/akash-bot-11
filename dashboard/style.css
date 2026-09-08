@@ -1,0 +1,5 @@
+body.theme-dark{ background:#0b0b0b; color:#cfeee0; font-family:Segoe UI, Roboto, sans-serif }
+header{ background:linear-gradient(90deg,#004d00,#002b00); padding:16px }
+h1{ color:#9bffb2 }
+main{ display:flex; gap:16px; padding:16px }
+.card{ background:#091009; padding:12px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.6) }

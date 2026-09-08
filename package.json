@@ -1,0 +1,18 @@
+{
+  "name": "akash-bot-11",
+  "version": "0.1.0",
+  "description": "AKASH BOT 11 - modular WhatsApp bot scaffold (Node.js, Cloud API)",
+  "main": "webhook-server.js",
+  "scripts": {
+    "start": "node webhook-server.js",
+    "dev": "nodemon webhook-server.js"
+  },
+  "author": "ahdnfhf22",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "body-parser": "^1.20.2",
+    "form-data": "^4.0.0"
+  }
+}

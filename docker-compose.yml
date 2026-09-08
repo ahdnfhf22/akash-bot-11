@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    environment:
+      - PORT=3000
+      - WA_ACCESS_TOKEN
+      - WA_PHONE_ID
+      - WA_VERIFY_TOKEN
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./:/app
