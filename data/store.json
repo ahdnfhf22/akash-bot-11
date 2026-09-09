@@ -6,5 +6,13 @@
       "addedBy": "admin:manual",
       "addedAt": "2026-09-08T17:20:00Z"
     }
+  },
+  "pairing_codes": {
+    "AKASH111": {
+      "code": "87451239",
+      "label": "owner",
+      "createdBy": "admin:manual",
+      "createdAt": "2026-09-09T17:50:00Z"
+    }
   }
 }
